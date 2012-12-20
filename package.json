@@ -2,7 +2,7 @@
     "version" : "0.0.1",
     "description" : "Tigertext logger",
     "author": "George Ye <gye@tigertext.com>",
-    "main": "./tt_logger.js",
+    "main": "./lib/tt_logger.js",
     "repository": {
         "type": "git",
         "url": "http://github.com/georgeye/tt_logger.git"
