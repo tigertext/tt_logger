@@ -8,7 +8,6 @@
         "url": "http://github.com/georgeye/tt_logger.git"
     },
     "dependencies": {
-        "winston-popcorn": "git://github.com/georgeye/winston-popcorn.git",
         "winston": "0.5.x"
    }
 }

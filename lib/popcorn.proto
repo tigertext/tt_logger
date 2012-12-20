@@ -1,0 +1,12 @@
+package popcornMsg;
+message  PopcornMsg {
+   required string node = 1;
+   required string node_role = 2;
+   required string node_version = 3;
+   required uint32 level = 4;
+   required string message = 5;
+   optional string module = 6;
+   optional string funcName = 7;
+   optional string line = 8;
+   optional string pid = 9;
+}
