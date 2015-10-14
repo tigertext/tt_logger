@@ -1,6 +1,6 @@
 {
   "name": "tt_logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tigertext logger",
   "author": "George Ye <gye@tigertext.com>",
   "main": "./lib/tt_logger.js",
