@@ -8,7 +8,6 @@
         "url": "http://github.com/georgeye/tt_logger.git"
     },
     "dependencies": {
-        "winston": "0.5.x",
-        "protobuf": "0.8.6"
+        "winston": "1.1.1"
    }
 }
